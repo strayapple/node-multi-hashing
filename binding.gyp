@@ -57,6 +57,13 @@
                 "crypto/c_skein.c",
                 "crypto/hash.c",
                 "crypto/aesb.c",
+                "argon2d.c",
+                "argon2d/argon2.c",
+                "argon2d/core.c",
+                "argon2d/encoding.c",
+                "argon2d/opt.c",
+                "argon2d/thread.c",
+                "crypto/blake2b.c",
                 "crypto/wild_keccak.cpp",
             ],
             "include_dirs": [
